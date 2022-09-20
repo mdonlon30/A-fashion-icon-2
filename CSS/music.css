@@ -129,7 +129,7 @@ nav ul li a:hover {
     width: 50%;
     height: 850px;
     background-color: aqua;
-    background-image: url('/music images/shorelinedothatshit.jfif');
+    background-image: url(/music\ images/.shorelinedothat);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -141,7 +141,7 @@ nav ul li a:hover {
     width: 50%;
     height: 850px;
     background-color: aqua;
-    background-image: url('/music images/geezyworld.jfif');
+    background-image: url(/music\ images/.geezyworld);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -153,7 +153,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url('/music images/otxmas.jfif');
+    background-image: url(/music\ images/.otxmas);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,7 +165,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url('/music images/party\ pack.jfif');
+    background-image: url(/music\ images/.partypack;
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -177,7 +177,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url('/music images/mafia\ bidness.jfif');
+    background-image: url(/music\ images/.mafiabidness);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -203,7 +203,7 @@ nav ul li a:hover {
     width: 25%;
     height: 400px;
     background-color: aqua;
-    background-image: url("/music images/off\ a\ macbook.jfif");
+    background-image: url(/music\ images/.offamacbook);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ nav ul li a:hover {
     width: 25%;
     height: 400px;
     background-color: aqua;
-    background-image: url('/music images/heavy.jfif');
+    background-image: url(/music\ images/.heavy);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -227,7 +227,7 @@ nav ul li a:hover {
     width: 25%;
     height: 400px;
     background-color: aqua;
-    background-image: url('/music images/wit\ my\ rounds.jfif');
+    background-image: url(/music\ images/.witmyrounds);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -239,7 +239,7 @@ nav ul li a:hover {
     width: 25%;
     height: 400px;
     background-color: aqua;
-    background-image: url('/music images/up.jfif');
+    background-image: url(/music\ images/.up);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
