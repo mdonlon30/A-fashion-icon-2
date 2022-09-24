@@ -141,7 +141,7 @@ nav ul li a:hover {
     width: 50%;
     height: 850px;
     background-color: aqua;
-    background-image: url(/music\ images/.geezyworld);
+    background-image: url("./music\ images/.geezyworld");
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -153,7 +153,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url(/music\ images/.otxmas);
+    background-image: url("./music\ images/.otxmas");
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,7 +165,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url(/music\ images/.partypack;
+    background-image: url("./music\ images/.partypack");
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -177,7 +177,7 @@ nav ul li a:hover {
     width: 33.33%;
     height: 550px;
     background-color: aqua;
-    background-image: url(/music\ images/.mafiabidness);
+    background-image: url("/music-images/mafia\ bidness.jfif"));
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
